@@ -29,6 +29,12 @@ yarn android
 # yarn ios
 ```
 
+Then to run all services, including websocket & kafka & web scrapping :
+
+```sh
+yarn start:server
+```
+
 ## Contribute
 
 - [How-to-setup-project](https://learn.patharanor.dev/blog/en/qr-code-scanner-in-react-native)
